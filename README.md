@@ -73,4 +73,4 @@ result in a higher, same, or lower grade.
 the instructor for additional explanation *without resubmitting*.
 3. If you receive no feedback, the instructor will provide *gentle* peer review on request.
 
-Acknowledgements: These peer review guidelines are adapted from Chuck Lanfear's UW CSSS508 course and [Jenny Bryan's UBC STAT545 course](http://stat545.com/peer-review02_peer-evaluation-guidelines.html).
+Acknowledgements: Chuck Lanfear's UW CSSS508 course and [Jenny Bryan's UBC STAT545 course](http://stat545.com/peer-review02_peer-evaluation-guidelines.html).
