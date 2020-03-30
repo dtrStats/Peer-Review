@@ -7,7 +7,7 @@ It doesn't take long to learn that most coding problems have already been [solve
 After each homework, each of you will be randomly assigned to evaluate a homework from a peer and given until the *following class meeting* to provide peer review. For this, you are required to grade and provide feedback on both the `.html` output and `.Rmd` syntax files for peer homework assignments. Both the reviewer and the reviewee will be anonymized to reduce potential biases.
 
 ## Evaluation of Peer Review
-For each homework assignment, you will receive either 0 or 1 point for your peer review, with 20% of your overall course grade coming from thsi activity. Additionally, *failure to complete peer reviews may result in points removed from homeworks.*
+For each homework assignment, you will receive either 0 or 1 point for your peer review, with this activity accounting for 20% of your overall course grade. Additionally, *failure to complete peer reviews may result in points removed from homeworks.*
 
 **Good** peer reviews:
 
